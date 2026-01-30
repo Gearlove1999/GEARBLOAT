@@ -1,0 +1,2 @@
+RUN:mach eif powershell als admin und mach: python tool.py
+fick dich
